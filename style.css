@@ -1,0 +1,16 @@
+#box{
+    background: rgb(238, 192, 199);
+    border: 2px solid black ;
+    padding: 30px;
+}
+
+#head{
+    font-weight: bold;
+
+    color: black;
+}
+
+#para{
+    font-size: medium;
+    color: black;
+}
